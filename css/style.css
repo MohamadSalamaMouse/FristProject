@@ -1,0 +1,201 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    color: #777;
+    
+    
+}
+.container{
+
+    width: 1200px;
+    margin: auto;
+    
+}
+nav{
+ /* background-color: blue; */
+ overflow: auto;
+ position: fixed;
+ z-index: 1;
+ width: 100%;
+}
+.logo {
+    
+    float: left;
+    padding-top: 13px;
+    
+
+}
+.logo img{
+    width: 70px;
+    height: 70px;
+    border-radius: 30px;
+
+}
+.list{
+    float: right;
+    width: 30%;
+}
+ul,a,li{
+    list-style-type: none;
+    text-decoration: none;
+    float: left;
+    padding: 8px 6px;
+    color: white;
+}
+.list a:hover{
+    color: tomato;
+
+}
+.list a:active{
+    color: violet;
+}
+/* start header*/
+header{
+    
+    background-image: url("../img/hacker.png");
+    width: 100%;
+    height: 660px;
+    /* cover بتطلع الصورة كلها */
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+}
+header .top_bg{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(132, 96, 246, 0.8);;
+
+}
+.header_info{
+
+    position: absolute;
+    z-index: 2;
+    top: 40%;
+    left: 25%;
+  
+    width: 50%;
+    text-align: center;
+}
+.header_info h4{
+    font-size: 50px;
+    margin: 0px 0px 0px 3px;
+    color: white;
+    
+
+}
+.header_info p{
+    margin-bottom: 10px;
+    color: white;
+
+
+}
+
+
+
+
+/* end header */
+.btn{
+
+    /* background-color: blueviolet; */
+    border: 0px;
+    padding: 10px 30px;
+    border: 3px solid white;
+    border-radius: 20px 20px;
+}
+.heading{
+    text-align: center;
+}
+.heading h3{
+    font-size: 30px;
+    padding-bottom: 15px;
+
+}
+.heading p{
+    font-size: 20px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding-bottom: 40px;
+}
+/* start history */
+.history{
+    padding-top: 70px;
+    color:rgba(26, 20, 20, 0.233);
+}
+.history-dico{
+    margin: auto;
+    width: 100%;
+    height: 450px;
+    background-color:white;
+}
+.history-img{
+    float: left;
+    width: 30.333%;
+}
+.history-img img{
+    width: 300px;
+    height: 400px;
+}
+
+.histroy-info{
+    width: 60%;
+    margin: auto;
+    padding-top: 20px;
+   
+    
+    
+}
+
+
+.histroy-info p{
+    font-family: 'Poppins', sans-serif;
+    padding-bottom: 10px;
+    font-size: 25px;
+    direction: rtl;
+    font-weight: 400px;
+
+}
+
+/* end history */
+/* start keep */
+.keep{
+    padding: 100px ;
+}
+.keep form{
+    overflow: auto;
+}
+.keep form input{
+    width: 40%;
+    height: 40px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 15px;
+    
+}
+.keep form textarea{
+    width: 83%;
+    height: 200px;
+    
+}
+
+.keep form .btn:hover{
+    color: rgb(64, 224, 99);
+    background-color: rgb(179, 195, 245);
+}
+.keep form .btn:active{
+    background-color: blue;
+
+}
+.keep form .btn a{
+    color: black;
+   height: 10px;
+}
+
+
+
+/* end keep */

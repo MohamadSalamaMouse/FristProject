@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 53 (72520) - https://sketchapp.com -->
+    <title>2765684F-8B4B-43CA-A166-78170253FFB9</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <polygon id="path-1" points="0 16 16 16 16 0 0 0"></polygon>
+    </defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="02_ArticleDetailPage_00" transform="translate(-1273.000000, -1683.000000)">
+            <g id="News-Details-Sharing-Icons" transform="translate(1128.000000, 1673.000000)">
+                <g id="Group" transform="translate(145.000000, 10.000000)">
+                    <path d="M12.156917,4 C10.5967223,4 9.5497324,4.97018158 9.12229337,5.88992098 L9.07717414,5.88992098 L9.07717414,4.29368103 L6,4.29368103 L6,15.9992809 L9.20416076,15.9992809 L9.20416076,10.2030871 C9.20416076,8.67697998 9.45946371,7.20128075 11.1273342,7.20128075 C12.7706958,7.20128075 12.7951744,8.9428887 12.7951744,10.3009922 L12.7951744,16 L15.9961318,16 L15.9961318,15.9992809 L16,15.9992809 L16,9.56901556 C16,6.42324518 15.402359,4 12.156917,4" id="Fill-1" fill="#0073B5"></path>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-4"></g>
+                    <polygon id="Fill-3" fill="#0073B5" mask="url(#mask-2)" points="0 16 4 16 4 6 0 6"></polygon>
+                    <path d="M1.99998374,0 C0.895897207,0 0,0.891745317 0,1.99064286 C0,3.08960515 0.895897207,4 1.99998374,4 C3.10407026,4 4,3.08960515 4,1.99064286 C3.99928435,0.891745317 3.10338714,0 1.99998374,0" id="Fill-5" fill="#0073B5" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
